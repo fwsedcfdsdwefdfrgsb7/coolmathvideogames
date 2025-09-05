@@ -28,6 +28,6 @@ pnpm run preview
 
 ### Where to get help
 
-For questions and suggestions please join our [Discord server](https://discord.gg/C2fbK35Rhg)
+For questions and suggestions please join our [Discord server]([https://discord.gg/C2fbK35Rhg](https://discord.gg/X3HzNUjh))
 
 For any website/game issues please create a new GitHub issue
